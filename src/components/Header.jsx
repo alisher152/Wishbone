@@ -32,7 +32,7 @@ const Header = () => {
             {/* Верхний ряд */}
             <div className="flex items-center justify-center p-2 sm:p-3 md:p-4">
               <img
-                src="src/assets/IMAGE (7).svg"
+                src="/assets/IMAGE (7).svg"
                 alt="Hill Playes"
                 className="w-24 sm:w-28 md:w-32 lg:w-[128px] h-auto"
               />
@@ -40,7 +40,7 @@ const Header = () => {
 
             <div className="flex items-center justify-center p-2 sm:p-3 md:p-4">
               <img
-                src="src/assets/IMAGE (8).svg"
+                src="/assets/IMAGE (8).svg"
                 alt="RIKSGRÄNSEN"
                 className="w-24 sm:w-28 md:w-32 lg:w-[128px] h-auto"
               />
@@ -49,7 +49,7 @@ const Header = () => {
             {/* Нижний ряд */}
             <div className="flex items-center justify-center p-2 sm:p-3 md:p-4">
               <img
-                src="src/assets/IMAGE (9).svg"
+                src="/assets/IMAGE (9).svg"
                 alt="Studio Cai"
                 className="w-24 sm:w-28 md:w-32 lg:w-[128px] h-auto"
               />
@@ -57,7 +57,7 @@ const Header = () => {
 
             <div className="flex items-center justify-center p-2 sm:p-3 md:p-4">
               <img
-                src="src/assets/IMAGE (10).svg"
+                src="/assets/IMAGE (10).svg"
                 alt="Chill Industries"
                 className="w-24 sm:w-28 md:w-32 lg:w-[128px] h-auto"
               />
@@ -71,7 +71,7 @@ const Header = () => {
         {/* Изображение во всю ширину */}
         <div className="w-full">
           <img
-            src="src/assets/Frame (17).svg"
+            src="/assets/Frame (17).svg"
             alt="The swirling staircase"
             className="w-full h-auto"
           />
@@ -111,7 +111,7 @@ const Header = () => {
           {/* Картинка 1 */}
           <div>
             <img
-              src="src/assets/Frame (18).svg"
+              src="/assets/Frame (18).svg"
               alt="Project 1"
               className="w-full h-auto"
             />
@@ -120,7 +120,7 @@ const Header = () => {
           {/* Картинка 2 с текстом и кнопкой */}
           <div className="relative">
             <img
-              src="src/assets/Frame (19).svg"
+              src="/assets/Frame (19).svg"
               alt="Big Road Brewery"
               className="w-full h-auto"
             />
@@ -142,7 +142,7 @@ const Header = () => {
           {/* Картинка 3 */}
           <div>
             <img
-              src="src/assets/Frame (20).svg"
+              src="/assets/Frame (20).svg"
               alt="Project 3"
               className="w-full h-auto"
             />
@@ -188,7 +188,7 @@ const Header = () => {
                     <div className="w-12 h-12 sm:w-14 sm:h-14 lg:w-16 lg:h-16 rounded-full overflow-hidden mr-4 flex-shrink-0">
                       {/* Замените на ваше изображение */}
                       <img
-                        src="src/assets/IMAGE (3).svg"
+                        src="/assets/IMAGE (3).svg"
                         alt="Stephen Collier"
                         className="w-16 h-16 sm:w-20 sm:h-20 lg:w-auto lg:h-auto"
                       />
@@ -208,7 +208,7 @@ const Header = () => {
                     <div className="w-12 h-12 sm:w-14 sm:h-14 lg:w-16 lg:h-16 rounded-full overflow-hidden mr-4 flex-shrink-0">
                       {/* Замените на ваше изображение */}
                       <img
-                        src="src/assets/IMAGE (11).svg"
+                        src="/assets/IMAGE (11).svg"
                         alt="Ferris Wonder"
                         className="w-full h-full object-cover"
                       />
@@ -228,7 +228,7 @@ const Header = () => {
                     <div className="w-12 h-12 sm:w-14 sm:h-14 lg:w-16 lg:h-16 rounded-full overflow-hidden mr-4 flex-shrink-0">
                       {/* Замените на ваше изображение */}
                       <img
-                        src="src/assets/IMAGE (12).svg"
+                        src="/assets/IMAGE (12).svg"
                         alt="Ferris Wonder"
                         className="w-full h-full object-cover"
                       />
@@ -253,7 +253,7 @@ const Header = () => {
                     <div className="w-12 h-12 sm:w-14 sm:h-14 lg:w-16 lg:h-16 rounded-full overflow-hidden mr-4 flex-shrink-0">
                       {/* Замените на ваше изображение */}
                       <img
-                        src="src/assets/IMAGE (13).svg"
+                        src="/assets/IMAGE (13).svg"
                         alt="Ferris Wonder"
                         className="w-full h-full object-cover"
                       />
@@ -273,7 +273,7 @@ const Header = () => {
                     <div className="w-12 h-12 sm:w-14 sm:h-14 lg:w-16 lg:h-16 rounded-full overflow-hidden mr-4 flex-shrink-0">
                       {/* Замените на ваше изображение */}
                       <img
-                        src="src/assets/IMAGE (14).svg"
+                        src="/assets/IMAGE (14).svg"
                         alt="Ferris Wonder"
                         className="w-full h-full object-cover"
                       />

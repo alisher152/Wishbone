@@ -7,7 +7,7 @@ const Footer = () => {
         {/* Левая часть - логотип и текст */}
         <div className="lg:ml-85">
           <img
-            src="src/assets/IMAGE (1).svg"
+            src="/assets/IMAGE (1).svg"
             alt="Logo"
             className="w-32 md:w-40 lg:w-auto"
           />

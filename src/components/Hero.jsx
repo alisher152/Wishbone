@@ -40,7 +40,7 @@ const Hero = () => {
         {/* Правая часть с изображением */}
         <div className="lg:ml-24 xl:ml-32 w-full lg:w-1/2 mt-8 sm:mt-10 md:mt-12 lg:mt-0">
           <img
-            src="src/assets/IMAGE (2).svg"
+            src="/assets/IMAGE (2).svg"
             alt="Architecture"
             className="w-full h-auto max-w-full"
           />
@@ -99,7 +99,7 @@ const Hero = () => {
             </div>
             <div className="flex mt-8 sm:mt-10 flex-col sm:flex-row sm:items-center">
               <img
-                src="src/assets/IMAGE (3).svg"
+                src="/assets/IMAGE (3).svg"
                 alt="Stephen Collier"
                 className="w-16 h-16 sm:w-20 sm:h-20 lg:w-auto lg:h-auto"
               />
@@ -121,7 +121,7 @@ const Hero = () => {
         {/* Изображение во всю ширину */}
         <div className="w-full">
           <img
-            src="src/assets/Frame (15).svg"
+            src="/assets/Frame (15).svg"
             alt="Reeding House"
             className="w-full h-auto"
           />
@@ -156,7 +156,7 @@ const Hero = () => {
           <div className="flex flex-col items-center text-center">
             <div className="mb-4">
               <img
-                src="src/assets/IMAGE (4).svg"
+                src="/assets/IMAGE (4).svg"
                 alt="Sketching Process"
                 className="w-[117px] h-[102px] mx-auto"
               />
@@ -176,7 +176,7 @@ const Hero = () => {
           <div className="flex flex-col items-center text-center">
             <div className="mb-4">
               <img
-                src="src/assets/IMAGE (5).svg"
+                src="/assets/IMAGE (5).svg"
                 alt="Finalizing Process"
                 className="w-[117px] h-[102px] mx-auto"
               />
@@ -194,7 +194,7 @@ const Hero = () => {
           <div className="flex flex-col items-center text-center">
             <div className="mb-4">
               <img
-                src="src/assets/IMAGE (6).svg"
+                src="/assets/IMAGE (6).svg"
                 alt="Building Process"
                 className="w-[117px] h-[102px] mx-auto"
               />
@@ -217,7 +217,7 @@ const Hero = () => {
         {/* Изображение во всю ширину */}
         <div className="w-full">
           <img
-            src="src/assets/Frame (16).svg"
+            src="/assets/Frame (16).svg"
             alt="The marble staircase"
             className="w-full h-auto"
           />
